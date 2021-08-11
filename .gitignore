@@ -1,0 +1,11 @@
+node_modules
+
+/.cache
+/server/build
+/public/build
+
+.idea
+.DS_Store
+.env
+
+.vercel
